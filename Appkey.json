@@ -1,9 +1,10 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "latestVersionCode": 2,
   "latestVersionName": "1.1",
   "title": "UPDATE AVAILABLE",
-  "message": "এই এপটির নতুন ভার্সন এসেছে দয়া করে নতুন ভার্সন ডাউনলোড করুন.",
+  "message": "এই এপটির নতুন ভার্সন এসেছে দয়া করে নতুন ভার্সন ডাউনলোড করুন
+  Devoloper By Samir .",
   "UpdateButtonText": "DOWNLOAD",
   "UpdateButtonUrl": "https://t.me/+aEvillj1x81mNjE1"
 }
